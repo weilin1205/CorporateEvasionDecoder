@@ -6,8 +6,7 @@ import os
 
 # ── SeekingAlpha RapidAPI ────────────────────────────────────────────────────
 RAPIDAPI_KEY = os.environ.get(
-    "RAPIDAPI_KEY",
-    "cf0d271b39msh162fd7ed39c76c0p194838jsnf32ad9162e2d",  # ← replace or set env var
+    "RAPIDAPI_KEY",  # ← replace or set env var
 )
 RAPIDAPI_HOST = "seeking-alpha.p.rapidapi.com"  # correct host
 
@@ -17,7 +16,7 @@ TRANSCRIPTS_PER_TICKER = 8  # ~8 transcripts per ticker → good diversity
 # ── LLM Annotation ──────────────────────────────────────────────────────────
 LLM_MODEL_PATH = os.environ.get(
     "LLM_MODEL_PATH",
-    "Qwen/Qwen3-8B",  # adjust to your local path if needed
+    "Qwen/Qwen3.5-9B",  # adjust to your local path if needed
 )
 LLM_BATCH_SIZE = 1  # single-sample inference for reliability
 LLM_MAX_NEW_TOKENS = 256  # room for thinking tags + label
