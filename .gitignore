@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+*.npz
+*.npy
+debug_*.py

@@ -6,7 +6,7 @@ import os
 
 # ── SeekingAlpha RapidAPI ────────────────────────────────────────────────────
 RAPIDAPI_KEY = os.environ.get(
-    "RAPIDAPI_KEY",  # ← replace or set env var
+    "RAPIDAPI_KEY",
 )
 RAPIDAPI_HOST = "seeking-alpha.p.rapidapi.com"  # correct host
 
