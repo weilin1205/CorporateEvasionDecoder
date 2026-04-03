@@ -1,0 +1,26 @@
+Feature,Importance
+number_ratio,0.01128
+tfidf_ways,0.00781
+tfidf_change,0.00777
+answer_word_count,0.0071
+avg_sent_length,0.00708
+tfidf_double,0.00612
+tfidf_ask,0.00601
+tfidf_leading,0.00597
+tfidf_changes,0.00586
+tfidf_parts,0.00581
+tfidf_building,0.00577
+tfidf_definitely,0.00569
+tfidf_general,0.00567
+tfidf_reason,0.00562
+tfidf_don think,0.00558
+tfidf_investment,0.00545
+tfidf_2025,0.00543
+tfidf_used,0.00538
+tfidf_potential,0.00527
+tfidf_day,0.00524
+tfidf_benefit,0.00481
+tfidf_quarter,0.00481
+number_count,0.00468
+tfidf_model,0.00457
+jargon_word_count,0.00456

@@ -1,0 +1,31 @@
+Model,Train Size,Val F1
+Logistic Regression,90,0.3672
+Logistic Regression,180,0.4272
+Logistic Regression,270,0.3954
+Logistic Regression,361,0.4402
+Logistic Regression,451,0.487
+Logistic Regression,541,0.4898
+Logistic Regression,632,0.4945
+Logistic Regression,722,0.4909
+Logistic Regression,812,0.4986
+Logistic Regression,903,0.4941
+SVM (RBF),90,0.2607
+SVM (RBF),180,0.3108
+SVM (RBF),270,0.2727
+SVM (RBF),361,0.381
+SVM (RBF),451,0.4803
+SVM (RBF),541,0.5237
+SVM (RBF),632,0.5266
+SVM (RBF),722,0.5328
+SVM (RBF),812,0.5379
+SVM (RBF),903,0.5291
+XGBoost,90,0.3691
+XGBoost,180,0.4646
+XGBoost,270,0.4142
+XGBoost,361,0.4826
+XGBoost,451,0.5294
+XGBoost,541,0.5211
+XGBoost,632,0.5179
+XGBoost,722,0.5451
+XGBoost,812,0.5465
+XGBoost,903,0.536

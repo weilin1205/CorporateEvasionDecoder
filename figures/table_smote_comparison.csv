@@ -1,0 +1,4 @@
+Model,F1 (No SMOTE),F1 (With SMOTE),Change
+Logistic Regression,0.4530,0.4530,-0.0001
+SVM (RBF),0.5281,0.5229,-0.0052
+XGBoost,0.5417,0.5456,+0.0038
