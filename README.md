@@ -2,7 +2,7 @@
 
 A novel NLP dataset and ML pipeline for detecting evasive corporate communication in earnings call Q&A sessions.
 
-> **Report:** See [`main.tex`](main.tex) for the full write-up (compile with pdflatex).
+> **Report:** See [`report.pdf`](report.pdf) for the full write-up.
 
 ---
 
